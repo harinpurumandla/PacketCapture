@@ -1,12 +1,3 @@
-/*
- * extraFunctions.h
- *
- *  Created on: Oct 15, 2013
- *      Author: Jacob Saunders
- *  This file contains methods for converting various standard data types
- *  useful for avoiding potential buffer overflows or other unexpected
- *  errors.
- */
 
 #ifndef EXTRAFUNCTIONS_H_
 #define EXTRAFUNCTIONS_H_
